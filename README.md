@@ -56,13 +56,6 @@ This dataset was obtained from **Kaggle** and includes various customer attribut
 
 - Determined the optimal number of clusters using the Elbow Method.
 
-  **Features used for clustering:**
-
-- Age vs. Spending Score
-
-- Work Experience vs. Spending Score
-
-- Family Size vs. Spending Score
 
 ---
 
@@ -118,7 +111,7 @@ Cluster 3: Mixed spending behaviors with diverse demographics.
 💬 **Let’s Discuss!**
 How can businesses further leverage customer segmentation for growth? Let’s connect and explore innovative strategies! 👇
 
-🔗 **Check out the full project on GitHub: [Insert GitHub Link Here]**
+🔗 **Check out the full project on GitHub: [https://github.com/Samuel-adeboje/Customer-Segmentation-Analysis/blob/main/Customer%20Segmentation%20Analysis%20Report.pdf]**
 
 🔗 **Connect with me on LinkedIn: [www.linkedin.com/in/samuel-adeboje-368320330]**
 
